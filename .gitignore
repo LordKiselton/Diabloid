@@ -1,53 +1,36 @@
-# Unreal Engine
+# Unreal Engine Generated Files
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
 Build/
+
+# Visual Studio/Mac/Xcode
 *.sln
 *.suo
 *.xcodeproj
 *.xcworkspace
 *.DotSettings
+
+# User-specific files
 *.user
+*.userprefs
+
+# Build outputs
+*.log
+*.pdb
+*.obj
+*.ilk
+*.dll
+*.exe
+*.lib
+*.exp
+
+# Project files
 *.opendb
 *.VC.db
 *.VC.VC.opendb
-*.VC.VC.db
-*.db
-*.ide
-*.sdf
-*.opensdf
-*.log
-*.tmp
-*.backup
-*.DS_Store
-*.pidlock
-*.pdb
-*.obj
-Thumbs.db
-*.exe
-*.dll
-*.ilk
-*.lib
-*.exp
-*.app
-*.so
-*.dylib
-*.a
-*.bmp
-*.psd
-*.tga
-*.fbx
-*.FBX
-*.mb
-*.ma
-*.blend
-*.obj
-*.max
-*.3ds
-*.uasset
-*.umap
-*.ubulk
-*.uexp
-*.ini
+
+# Asset files (можно добавить, если не хотите их в репозитории)
+#*.uasset
+#*.umap
